@@ -32,9 +32,14 @@ This project is aim for using Generative AI technology to create a web chat appl
 ### Containerization set-up:
 
 1. Create a Dockerhub account and a Docker Repository for incoming Docker image.
+![Alt text](Create_Dockerrepo.png)
 2. Log into the Azure
 3. Find the App Services in search bar
+![Alt text](<App Services.png>)
 4. Click on create "Web App", in "publish" option select "Docker Container"
+![Alt text](Create_Webapp.png)
 5. Click on top session "Docker", select Image Source as "Docker Hub", copy paste the path of Docker repository from Docker hub and click "create" to create web app at last.
+![Alt text](Webservice_Dockerset.png)
 6. Navigate on the left menu, click on "Configuration" under Settings, click "New application setting" and set the port name as "WEBSITES_PORT" with value of 5000
+![Alt text](PORT_set.png)
 
