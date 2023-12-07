@@ -11,6 +11,8 @@
 This project is aim to utilize with Generative AI technology to create a web chat application with Flask. And the development and deployment also integrates with Docker for containerization and Azure for cloud deployment and auto-scaling.
 
 ### File Tree:
+
+```bash
 .
 ├── Dockerfile
 ├── LICENSE
@@ -29,6 +31,7 @@ This project is aim to utilize with Generative AI technology to create a web cha
 │   ├── index.html
 │   └── prompt.html
 └── test_main.py
+```
 
 ## How to create and proceed this project
 
