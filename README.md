@@ -1,4 +1,4 @@
-
+[![CI](https://github.com/nogibjj/Alicia_Individual_4/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/Alicia_Individual_4/actions/workflows/cicd.yml)
 ## Individual Project 4: Auto Scaling Flask App Using Any Platform As a Service
 ### Demo Video:
 
