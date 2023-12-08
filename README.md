@@ -87,6 +87,15 @@ If you are other people who want to see your Docker image,
 
 `docker pull <yourimagename>/yourrepository:yourtag`
 
+13. Build and Push docker image to Azure web service:
+
+`docker login --<insert username>`
+
+`docker build -t <insert username>/<insert repo name> .`
+
+`docker push <insert username>/<insert repo name>`
+
+
 After doing all the above steps, now you can safari on my web page with the default domain provided on Azure.
 Below is the screenshot of the webpage
 
