@@ -8,7 +8,7 @@
 
 ### Goal:
 
-This project is aim to utilize with Generative AI technology to create a web chat application with Flask. And the development and deployment also integrates with Docker for containerization and Azure for cloud deployment and auto-scaling.
+This project aims to harness the power of Generative AI technology to develop a web-based chat application using Flask. The development and deployment processes are streamlined through the use of Docker for containerization, ensuring a consistent and isolated environment. Additionally, we leverage Azure for cloud deployment, taking advantage of its robust auto-scaling capabilities to ensure efficient resource utilization and optimal performance.
 
 ### File Tree:
 
