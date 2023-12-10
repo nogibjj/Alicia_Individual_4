@@ -2,6 +2,8 @@
 ## Individual Project 4: Auto Scaling Flask App Using Any Platform As a Service
 ### Demo Video:
 
+[Demo](https://duke.zoom.us/rec/share/IX6tfJruxv8ZK5KEtC95x8PZ3737ruHt3i5H6Inps1ijwD95HCyeoM8dQSMSXB0o.CF1cFXABRmoSRj8H?startTime=1702231559000)
+
 ### Flask App Link:
 
 [Chitchat](http://chitchat123.azurewebsites.net)
